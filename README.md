@@ -1,3 +1,10 @@
+###　 firebaseのバージョン問題で何かしらのエラーが出たら以下を
+動画の内容に従って修正
+https://www.udemy.com/course/react-3project-app-udemy/learn/lecture/32797538#content
+"firebase": "^12.11.0",
+↓
+"firebase": "^9.8.4",
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
